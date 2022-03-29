@@ -1,0 +1,40 @@
+/*Home Section*/
+#home{
+    height: 839px;
+}
+
+ h1{
+    font-size: 25px;
+}
+.headings{
+    font-size: 20px;
+}
+/*About Section*/
+.pic img{
+    width: 300px;
+    height: 175px;
+}
+#about{
+    margin-top: 10px;
+}
+
+#intro{
+    padding: 0%;
+    padding-left: 5px;
+    
+}
+#intro p{
+   
+    font-size: 10px; 
+    
+}
+
+#intro h2{
+    font-size: 15px;
+    
+}
+
+/*Projects Section*/
+.gallery img{
+    padding: 5px;
+}
