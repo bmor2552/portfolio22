@@ -10,9 +10,13 @@ When planning the layout, I had a certain look in mind, I wanted a landing page 
     - Tutorial Dev
 3. Free Code Camp 
 4. W3 Schools 
-5. The Odin Project 
+5. The Odin Project
 
-# The struggle
+# The Outcome
+Below you will find the link to the portfolio demo
+- https://bmor2552.github.io/portfolio22/
+
+# The Struggle
 I struggled with the timing of everything, things I thought would take a few minutes took about 30 minutes (sometimes more). I wanted to struggle through creating the landing page before looking for the answer (through resources). 
 
 My reasoning for this was to make sure that the basics become second nature to me. The main thing I struggled with was the css flex box, but the more I played around with it the easier it became. 
@@ -28,4 +32,4 @@ Overall, after building this landing page, I have better understanding of how th
 - The Odin Project (https://www.theodinproject.com)
 
 # Contact Info
-LinkedIn (https://www.linkedin.com/in/boi-n-moriba-8510351a3/)
+- LinkedIn (https://www.linkedin.com/in/boi-n-moriba-8510351a3/)
